@@ -140,7 +140,7 @@ bureau, bureau!bûrô, 5402, 0.0144
 comply, cómplŷ, 5434, 0.01432
 accounted, ácc0õùntéd, 5500, 0.01406
 symbolic, sųmbolic, 5591, 0.01375
-mysterious, mųstėrïous, 5672, 0.01344
+mysterious, mųstėrïòus, 5672, 0.01344
 olympic, ólųmpic, 5700, 0.01337
 criticised, critiçiśèd, 5792, 0.01309
 analyse, análŷśè, 5809, 0.01305
@@ -1136,7 +1136,7 @@ bentham, benπħám, 19976, 0.002
 dungannon, dungann0ón, 19989, 0.002
 tyrone, tŷrônès, 20040, 0.00199
 the, τħé, 1, 61.87925
-of, óƒ, 2, 29.41786
+of, óf, 2, 29.41786
 and, and, 3, 26.82874
 to, tö, 4, 25.60344
 a, a, 5, 21.26543
@@ -1715,7 +1715,7 @@ secretary, secrétãrý, 607, 0.15588
 art, ārt, 608, 0.15582
 led, led, 609, 0.1556
 production, próducţìòn, 610, 0.15555
-various, vãrïous, 611, 0.15502
+various, vãrïòus, 611, 0.15502
 understand, undèŕstand, 612, 0.15501
 schools, scħöòlś, 613, 0.15463
 bad, bad, 614, 0.15463
@@ -1876,7 +1876,7 @@ couple, còuplè, 776, 0.12432
 reached, rêàĉħèð, 777, 0.12413
 peter, pêtèŕ, 778, 0.1241
 throughout, πħröùg0ħõùt, 779, 0.12403
-serious, sėrïous, 780, 0.12402
+serious, sėrïòus, 780, 0.12402
 developed, dėvelópèð, 781, 0.12384
 quickly, qυicklý, 782, 0.12381
 lower, lôw0èŕ, 783, 0.12378
@@ -1886,7 +1886,7 @@ france, françè, 786, 0.12345
 beginning, bėginn0iñg0, 787, 0.1232
 behaviour, bėhâvĩòùŕ, 788, 0.12316
 recently, rêçéntlý, 789, 0.123
-previous, prêvïous, 790, 0.12286
+previous, prêvïòus, 790, 0.12286
 pounds, põùndś, 791, 0.1228
 cup, cup, 792, 0.12261
 prime, prîmè, 793, 0.12254
@@ -4901,7 +4901,7 @@ lease, lêàsè, 3913, 0.02208
 arising, árîśiñg0, 3915, 0.02207
 obligation, oblígâţìòn, 3916, 0.02207
 miller, mill0èŕ, 3917, 0.02207
-curious, cûrïous, 3918, 0.02205
+curious, cûrïòus, 3918, 0.02205
 submitted, submitt0éd, 3919, 0.02204
 participants, pārtiçípánts, 3920, 0.02204
 reserves, rėśèŕvèś, 3921, 0.02204
@@ -6636,7 +6636,7 @@ parental, párentál, 5723, 0.01329
 importantly, impør#tántlý, 5724, 0.01329
 prospective, próspectivè, 5725, 0.01329
 continually, cóntinûáll0ý, 5726, 0.01329
-furious, fûrïous, 5728, 0.01328
+furious, fûrïòus, 5728, 0.01328
 troubled, troublèd, 5729, 0.01327
 cared, cãrèd, 5730, 0.01327
 definitions, defíniţìònś, 5731, 0.01326
@@ -7286,7 +7286,7 @@ vanished, vaniŝħèð, 6415, 0.01138
 drain, drâìn, 6416, 0.01137
 blanche, blanĉħè, 6417, 0.01137
 grid, grid, 6418, 0.01137
-mercury, mèŕcu/{r0ý, 6419, 0.01137
+mercury, mèŕcûrý, 6419, 0.01137
 organising, ør#gánîśiñg0, 6420, 0.01136
 sincerely, sinçėŕèlý, 6421, 0.01135
 warn, wårn, 6422, 0.01135
@@ -7429,7 +7429,7 @@ amid, ámid, 6567, 0.01096
 individually, indiviδüáll0ý, 6568, 0.01096
 angeles, anĝélės, 6569, 0.01096
 elbow, elbôw0, 6570, 0.01096
-glorious, glør#ïous, 6571, 0.01095
+glorious, glør#ïòus, 6571, 0.01095
 coherent, côhėrént, 6572, 0.01095
 hollow, holl0ôw0, 6573, 0.01095
 jersey, jèŕśêy0, 6574, 0.01094
@@ -8209,7 +8209,7 @@ olive, olivè, 7403, 0.00924
 deserves, dėśèŕvèś, 7404, 0.00924
 vendors, vendòŕś, 7405, 0.00924
 lincoln, liñcól0n, 7406, 0.00924
-curiously, cûrïouslý, 7408, 0.00924
+curiously, cûrïòuslý, 7408, 0.00924
 blackburn, blackbùŕn, 7409, 0.00924
 retaining, rėtâìniñg0, 7410, 0.00924
 featuring, fêàťúriñg0, 7411, 0.00924
@@ -10101,7 +10101,7 @@ atmospheric, atmósþħeric, 9443, 0.00648
 melody, melódý, 9444, 0.00648
 mattered, matt0èŕèd, 9445, 0.00648
 beams, bêàmś, 9446, 0.00648
-tenure, tenu/{r0è, 9447, 0.00648
+tenure, tenûrè, 9447, 0.00648
 contaminated, cóntamínâtėd, 9448, 0.00648
 limb, limb0, 9449, 0.00648
 wrongly, w0røñg0lý, 9450, 0.00648
@@ -10445,7 +10445,7 @@ indifference, indiff0èrénçè, 9827, 0.00614
 biting, bîtiñg0, 9828, 0.00614
 ecstasy, ecstásý, 9829, 0.00614
 chooses, ĉħöòśėś, 9831, 0.00614
-furiously, fûrïouslý, 9832, 0.00614
+furiously, fûrïòuslý, 9832, 0.00614
 escaping, ėscâpiñg0, 9833, 0.00614
 drafting, draftiñg0, 9834, 0.00613
 bomber, bomb0èŕ, 9835, 0.00613
@@ -10800,7 +10800,7 @@ ropes, rôpès, 10224, 0.0058
 diocese, dîóçêśè, 10225, 0.00579
 frenchman, frenĉħman, 10226, 0.00579
 addiction, ádd0icţìòn, 10227, 0.00579
-seriousness, sėrïousnéss0, 10228, 0.00579
+seriousness, sėrïòusnéss0, 10228, 0.00579
 devise, dėvîśè, 10229, 0.00579
 sting, stiñg0, 10230, 0.00579
 greet, grêèt, 10231, 0.00579
@@ -11202,7 +11202,7 @@ deter, dėtèŕ, 10671, 0.00543
 cancellation, cançéll0âţìòn, 10672, 0.00543
 atom, atóm, 10673, 0.00543
 reassurance, rêásŝūránçè, 10674, 0.00543
-tedious, têdïous, 10675, 0.00543
+tedious, têdïòus, 10675, 0.00543
 contested, cóntestéd, 10676, 0.00543
 troop, tröòp, 10677, 0.00543
 reformed, rėfør#mèd, 10678, 0.00543
@@ -11262,7 +11262,7 @@ fantasies, fantásïèś, 10745, 0.00538
 nuns, nunś, 10746, 0.00538
 normandy, nør#mándý, 10747, 0.00538
 gamble, gamblè, 10749, 0.00538
-uranium, u/{r0ânïum, 10750, 0.00538
+uranium, ûrânïum, 10750, 0.00538
 prevailed, prėvâìlèd, 10752, 0.00538
 forecasting, før#ècastiñg0, 10753, 0.00538
 elect, ėlect, 10754, 0.00538
@@ -11865,7 +11865,7 @@ unpublished, unpubliŝħèð, 11422, 0.00489
 repeats, rėpêàts, 11423, 0.00489
 crumbling, crumbliñg0, 11424, 0.00489
 untouched, untóùĉħèð, 11425, 0.00489
-notoriously, nôtør#ïouslý, 11426, 0.00489
+notoriously, nôtør#ïòuslý, 11426, 0.00489
 multiparty, multïpārtý, 11427, 0.00489
 statues, staťüèś, 11428, 0.00489
 fills, fill0ś, 11429, 0.00488
@@ -12310,7 +12310,7 @@ tuition, tûiţìòn, 11931, 0.00458
 protestants, protéstánts, 11932, 0.00458
 choked, ĉħôkèð, 11935, 0.00457
 campaigners, campâìg0nèŕś, 11936, 0.00457
-thereof, πħereóƒ, 11938, 0.00457
+thereof, πħereóf, 11938, 0.00457
 inflammation, inflámm0âţìòn, 11939, 0.00457
 nostrils, nostrílś, 11940, 0.00457
 unanimous, ûnanímous, 11941, 0.00457
@@ -12719,7 +12719,7 @@ technicians, tecħnićiánś, 12410, 0.00428
 curvature, cùŕvátûŕè, 12411, 0.00428
 sebastian, sébasťián, 12412, 0.00428
 discourses, discøùŕsėś, 12413, 0.00428
-figured, figu/{r0èd, 12415, 0.00428
+figured, figùŕèd, 12415, 0.00428
 carriages, carr0iàĝėś, 12417, 0.00428
 gaelic, gâèlic, 12418, 0.00428
 scanned, scann0èd, 12419, 0.00428
@@ -13258,7 +13258,7 @@ obeyed, ôbeyèd, 13037, 0.00397
 relics, relics, 13038, 0.00397
 dictionaries, dicţìònãrïèś, 13039, 0.00397
 unfinished, unfiniŝħèð, 13040, 0.00397
-variously, vãrïouslý, 13041, 0.00397
+variously, vãrïòuslý, 13041, 0.00397
 geese, gêèsè, 13042, 0.00397
 ploughed, plõùg0ħèd, 13043, 0.00397
 commando, cómm0andô, 13044, 0.00396
@@ -14071,7 +14071,7 @@ coupling, coupliñg0, 13986, 0.00356
 cohort, côhør#t, 13987, 0.00356
 strive, strîvè, 13988, 0.00356
 choking, ĉħôkiñg0, 13989, 0.00356
-oblivious, óblivïous, 13990, 0.00356
+oblivious, óblivïòus, 13990, 0.00356
 provocative, prôvocátivè, 13991, 0.00356
 banquet, bañqυét, 13992, 0.00356
 housekeeping, hõùsèkêèpiñg0, 13993, 0.00356
@@ -14201,7 +14201,7 @@ dominating, domínâtiñg0, 14139, 0.0035
 pellets, pell0éts, 14140, 0.0035
 winnie, winn0ïè, 14142, 0.0035
 welcomes, welcómèś, 14143, 0.0035
-precarious, prêcãrïous, 14144, 0.0035
+precarious, prêcãrïòus, 14144, 0.0035
 flanders, flandèŕś, 14146, 0.0035
 dunlop, dunlop, 14147, 0.0035
 exiled, exîlèd, 14148, 0.0035
@@ -14427,7 +14427,7 @@ robins, robínś, 14418, 0.0034
 pentium, pentïum, 14419, 0.0034
 mandeville, mandévill0è, 14420, 0.0034
 overdue, ôvèŕdüè, 14421, 0.0034
-insecure, insécu/{r0è, 14422, 0.0034
+insecure, insécûrè, 14422, 0.0034
 kosovo, kôsôvô, 14423, 0.0034
 spear, spėàŕ, 14424, 0.0034
 insure, inŝūrè, 14426, 0.0034
@@ -14908,7 +14908,7 @@ discontinued, discóntinûèd, 14975, 0.00321
 gigs, gigś, 14976, 0.0032
 artificially, ārtífićiáll0ý, 14977, 0.0032
 cooperate, côopérâtè, 14978, 0.0032
-devious, dêvïous, 14979, 0.0032
+devious, dêvïòus, 14979, 0.0032
 kerry, kerr0ý, 14981, 0.0032
 emptiness, emptïnéss0, 14982, 0.0032
 resumption, rėśumpţìòn, 14983, 0.0032
@@ -15284,7 +15284,7 @@ seville, sévill0è, 15439, 0.00306
 mainframes, mâìnfrâmèś, 15440, 0.00306
 mingled, miñglèd, 15443, 0.00306
 cons, conś, 15444, 0.00306
-victorious, victør#ïous, 15445, 0.00306
+victorious, victør#ïòus, 15445, 0.00306
 liquids, liqυidś, 15446, 0.00306
 applauded, ápp0låùdėd, 15447, 0.00306
 standpoint, standpσìnt, 15448, 0.00306
@@ -15691,7 +15691,7 @@ shopkeepers, ŝħopkêèpèŕś, 15925, 0.00291
 misgivings, misgiviñg0ś, 15926, 0.00291
 morphological, mør#þħóloĝicál, 15927, 0.00291
 subsidence, subsîdénçè, 15928, 0.00291
-harmonious, hārmônïous, 15929, 0.00291
+harmonious, hārmônïòus, 15929, 0.00291
 helper, helpèŕ, 15930, 0.00291
 suede, sυĕdè, 15931, 0.00291
 cursing, cùŕsiñg0, 15932, 0.00291
@@ -15729,7 +15729,7 @@ sarcasm, sārcaśm, 15969, 0.0029
 excused, ėxcûśèd, 15970, 0.0029
 densities, densítïèś, 15971, 0.0029
 floorboards, fløòŕbøàŕdś, 15972, 0.0029
-configurations, cónfigu/{r0âţìònś, 15973, 0.0029
+configurations, cónfigùŕâţìònś, 15973, 0.0029
 chunk, ĉħuñk, 15974, 0.0029
 magee, mágêè, 15975, 0.0029
 cultivate, cultívâtè, 15976, 0.0029
@@ -16674,7 +16674,7 @@ vocation, vôcâţìòn, 17111, 0.00259
 gems, ĝemś, 17112, 0.00259
 kingfisher, kiñg0fiŝħèŕ, 17113, 0.00259
 ridicule, ridícûlè, 17114, 0.00259
-hilarious, hilãrïous, 17115, 0.00258
+hilarious, hilãrïòus, 17115, 0.00258
 woolly, wōòll0ý, 17116, 0.00258
 emanating, emánâtiñg0, 17117, 0.00258
 stinging, stiñg0iñg0, 17118, 0.00258
@@ -17954,7 +17954,7 @@ vocals, vôcálś, 18707, 0.00223
 carelessly, cãrèléss0lý, 18708, 0.00223
 chemically, cħemícàll0ý, 18709, 0.00223
 georges, ĝèør#ĝėś, 18710, 0.00223
-illustrious, ill0ustrïous, 18711, 0.00223
+illustrious, ill0ustrïòus, 18711, 0.00223
 crowns, crõw0nś, 18712, 0.00223
 lissa, liss0á, 18713, 0.00223
 pragmatism, pragmátiśm, 18715, 0.00223
@@ -19246,7 +19246,7 @@ glover, glóvèŕ, 20315, 0.00194
 operatic, opèŕatic, 20316, 0.00194
 penh, penħ, 20317, 0.00194
 prevails, prėvâìlś, 20319, 0.00194
-laborious, lábør#ïous, 20320, 0.00194
+laborious, lábør#ïòus, 20320, 0.00194
 comprehensively, comprėhensivèlý, 20321, 0.00194
 rammed, ramm0èd, 20322, 0.00194
 mayonnaise, mây0ónn0âìśè, 20323, 0.00194
@@ -19300,7 +19300,7 @@ bounty, bõùntý, 20381, 0.00193
 emblem, emblém, 20382, 0.00193
 bombings, bomb0iñg0ś, 20383, 0.00193
 lightness, lîg0ħtnéss0, 20384, 0.00193
-inauguration, inåùgu/{r0âţìòn, 20385, 0.00193
+inauguration, inåùgùŕâţìòn, 20385, 0.00193
 maguire, mágυîrè, 20387, 0.00193
 carew, carëw0, 20388, 0.00193
 panoramic, panòŕamic, 20389, 0.00193
@@ -19696,7 +19696,7 @@ dickie, dickïè, 20892, 0.00185
 godfather, godfāτħèŕ, 20893, 0.00185
 congenial, cónĝênĩál, 20894, 0.00185
 sinful, sinful, 20895, 0.00185
-insidious, insidïous, 20896, 0.00185
+insidious, insidïòus, 20896, 0.00185
 guidebook, gùîdèbōòk, 20898, 0.00185
 alfonso, alfonsô, 20901, 0.00185
 hardback, hārdback, 20902, 0.00185
@@ -19724,7 +19724,7 @@ franchises, franĉħîśėś, 20925, 0.00185
 midwives, midwîvèś, 20926, 0.00185
 multicultural, multïculťúrál, 20927, 0.00185
 unnaturally, unnaťúráll0ý, 20928, 0.00185
-copious, côpïous, 20929, 0.00185
+copious, côpïòus, 20929, 0.00185
 phosphorus, þħosþħòŕus, 20930, 0.00185
 platelets, plâtèléts, 20931, 0.00185
 trimmings, trimm0iñg0ś, 20932, 0.00185
@@ -19772,7 +19772,7 @@ epitome, ėpitómê, 20984, 0.00184
 fainted, fâìntėd, 20985, 0.00184
 abundantly, ábundántlý, 20986, 0.00184
 distanced, distánçèð, 20987, 0.00184
-envious, envïous, 20988, 0.00184
+envious, envïòus, 20988, 0.00184
 reliefs, rêlïèfs, 20989, 0.00184
 courtiers, cøùŕtïèŕś, 20990, 0.00184
 josephine, jôséþħïnè, 20992, 0.00184
@@ -21358,7 +21358,7 @@ helpfully, helpfull0ý, 23044, 0.00157
 presidium, prėsidïum, 23045, 0.00157
 mariner, mãrínèŕ, 23046, 0.00157
 sag, sag, 23047, 0.00157
-impervious, impèŕvïous, 23049, 0.00157
+impervious, impèŕvïòus, 23049, 0.00157
 encompassed, encómpáss0èð, 23050, 0.00157
 darwinian, dārwinïán, 23051, 0.00157
 mogul, môgul, 23052, 0.00157
@@ -21407,7 +21407,7 @@ carton, cārtón, 23104, 0.00156
 aperture, apèŕtûŕè, 23105, 0.00156
 grille, grill0è, 23106, 0.00156
 amos, âmós, 23107, 0.00156
-configured, cónfigu/{r0èd, 23108, 0.00156
+configured, cónfigùŕèd, 23108, 0.00156
 detach, dėtaĉħ, 23109, 0.00156
 compacts, cómpacts, 23111, 0.00156
 reciprocity, reçiproçitý, 23112, 0.00156
@@ -22446,7 +22446,7 @@ bade, bâdè, 24520, 0.00141
 tarts, tārts, 24521, 0.00141
 residences, reśidénçėś, 24522, 0.00141
 attenuated, átt0enûâtėd, 24523, 0.00141
-precariously, prėcãrïouslý, 24524, 0.00141
+precariously, prėcãrïòuslý, 24524, 0.00141
 jugs, jugś, 24525, 0.00141
 exaggerating, ėxaĝg0érâtiñg0, 24526, 0.00141
 defamation, defámâţìòn, 24527, 0.00141
@@ -22664,7 +22664,7 @@ verges, vèŕĝėś, 24805, 0.00138
 attainable, átt0âìnáblè, 24806, 0.00138
 strangeness, strânĝènéss0, 24807, 0.00138
 punt, punt, 24808, 0.00138
-industrious, industrïous, 24809, 0.00138
+industrious, industrïòus, 24809, 0.00138
 lacquer, lacq0ùèŕ, 24810, 0.00138
 breakers, brèâkèŕś, 24812, 0.00138
 circuitry, çìŕcuítrý, 24813, 0.00138
@@ -22747,7 +22747,7 @@ crease, crêàsè, 24913, 0.00137
 quell, qυell0, 24914, 0.00137
 selectivity, sėlectivítý, 24915, 0.00137
 interception, intèŕçepţìòn, 24917, 0.00137
-acrimonious, acrímônïous, 24918, 0.00137
+acrimonious, acrímônïòus, 24918, 0.00137
 fractional, fracţìònál, 24921, 0.00137
 generative, ĝenerátivè, 24923, 0.00137
 limerick, limérick, 24925, 0.00137
@@ -23314,7 +23314,7 @@ waterlogged, wåtèŕlogg0èd, 25701, 0.0013
 blossomed, bloss0őmèd, 25703, 0.0013
 manifests, manífests, 25704, 0.0013
 ignited, ignîtėd, 25705, 0.0013
-laboriously, lábør#ïouslý, 25706, 0.0013
+laboriously, lábør#ïòuslý, 25706, 0.0013
 termites, tèŕmîtès, 25707, 0.0013
 rapidity, rápidítý, 25708, 0.0013
 crim, crim, 25709, 0.0013
@@ -23719,7 +23719,7 @@ endocrine, endôcrînè, 26260, 0.00125
 froth, frøπħ, 26261, 0.00125
 invests, invests, 26262, 0.00125
 exemplifies, ėxemplífîèś, 26264, 0.00125
-gregarious, grégãrïous, 26266, 0.00125
+gregarious, grégãrïòus, 26266, 0.00125
 meehan, mêéħàn, 26270, 0.00125
 fortresses, før#tréss0ėś, 26271, 0.00125
 monetarist, monétárist, 26272, 0.00125
@@ -24120,7 +24120,7 @@ confusions, cónfûŝìónś, 26826, 0.0012
 marshy, mārŝħý, 26828, 0.0012
 kernaghan, kèŕnaghán, 26831, 0.0012
 dualism, düáliśm, 26832, 0.0012
-gloriously, glør#ïouslý, 26833, 0.0012
+gloriously, glør#ïòuslý, 26833, 0.0012
 radiance, râdïánçè, 26834, 0.0012
 ballerina, ball0èŕïná, 26835, 0.0012
 orb, ør#b, 26836, 0.0012
@@ -24206,7 +24206,7 @@ coloration, cólórâţìòn, 26945, 0.00119
 showpiece, ŝħôw0pïèçè, 26947, 0.00119
 vices, vîçėś, 26948, 0.00119
 teething, têèτħiñg0, 26949, 0.00119
-deleterious, delétėrïous, 26950, 0.00119
+deleterious, delétėrïòus, 26950, 0.00119
 funniest, funn0ïést, 26951, 0.00119
 marty, mārtý, 26952, 0.00119
 windmills, windmill0ś, 26955, 0.00119
@@ -24644,7 +24644,7 @@ bremner, bremnèŕ, 27532, 0.00115
 arden, ārdén, 27534, 0.00115
 dailies, dâìlïèś, 27535, 0.00115
 harman, hārmán, 27536, 0.00115
-fastidious, fastidïous, 27537, 0.00115
+fastidious, fastidïòus, 27537, 0.00115
 impediment, impedímént, 27538, 0.00115
 ribbed, ribb0èd, 27539, 0.00115
 pollsters, pôll0stèŕś, 27540, 0.00115
@@ -24861,7 +24861,7 @@ methodologies, meπħôdolóĝïèś, 27839, 0.00113
 cormack, cør#máck, 27840, 0.00113
 lees, lêèś, 27843, 0.00113
 confectionery, cónfecţìònerý, 27844, 0.00113
-delirious, dėlirïous, 27845, 0.00113
+delirious, dėlirïòus, 27845, 0.00113
 hindley, hindlêy0, 27849, 0.00113
 ding, diñg0, 27850, 0.00113
 affliction, áff0licţìòn, 27851, 0.00113
@@ -25434,7 +25434,7 @@ mazda, mazdá, 28648, 0.00107
 khartoum, kħārtöùm, 28649, 0.00107
 repent, rėpent, 28650, 0.00107
 shanti, ŝħantï, 28652, 0.00107
-inaccuracies, inacc0u/{r0açïèś, 28654, 0.00107
+inaccuracies, inacc0ûraçïèś, 28654, 0.00107
 rooks, rōòks, 28656, 0.00107
 realizations, rêàlízâţìònś, 28657, 0.00107
 unfolds, unfôldś, 28658, 0.00107
@@ -25635,7 +25635,7 @@ annoys, ánn0σy0ś, 28943, 0.00105
 specs, specs, 28944, 0.00105
 kaplan, kaplán, 28945, 0.00105
 irreconcilable, irr0ecónçîláblè, 28946, 0.00105
-imperious, impėrïous, 28948, 0.00105
+imperious, impėrïòus, 28948, 0.00105
 opportunistic, opp0òŕtünistic, 28950, 0.00105
 libido, líbïdô, 28951, 0.00105
 crayons, crây0onś, 28953, 0.00105
@@ -26503,7 +26503,7 @@ lagging, lagg0iñg0, 30215, 0.00097
 linker, liñkèŕ, 30216, 0.00097
 cobbler, cobb0lèŕ, 30217, 0.00097
 outpost, õùtpôst, 30220, 0.00097
-vicarious, vîcãrïous, 30221, 0.00097
+vicarious, vîcãrïòus, 30221, 0.00097
 crunchy, crunĉħý, 30222, 0.00097
 prodding, prodd0iñg0, 30223, 0.00097
 karim, kàŕïm, 30224, 0.00097
@@ -26746,7 +26746,7 @@ curative, cûrátivè, 30553, 0.00095
 fakes, fâkès, 30554, 0.00095
 stunts, stunts, 30555, 0.00095
 villiers, vill0ĩèŕś, 30557, 0.00095
-disfigured, disfigu/{r0èd, 30560, 0.00095
+disfigured, disfigùŕèd, 30560, 0.00095
 nikkei, nîkk0êì, 30561, 0.00095
 croak, crôàk, 30563, 0.00095
 diode, dîôdè, 30564, 0.00095
@@ -26863,7 +26863,7 @@ deloitte, délσìtt0è, 30751, 0.00094
 insolent, insólént, 30752, 0.00094
 equine, êqυînè, 30754, 0.00094
 feverishly, fevériŝħlý, 30755, 0.00094
-urea, u/{r0êá, 30756, 0.00094
+urea, ûrêá, 30756, 0.00094
 derisive, dérîsivè, 30757, 0.00094
 squinting, sqυintiñg0, 30758, 0.00094
 strategists, stratėĝists, 30761, 0.00094
@@ -27236,7 +27236,7 @@ goddesses, godd0éss0ėś, 31286, 0.00091
 technologists, tecħnolóĝists, 31287, 0.00091
 haworth, hawòŕπħ, 31290, 0.00091
 peculiarity, pėcûlïãrítý, 31291, 0.00091
-injurious, injūrïous, 31293, 0.00091
+injurious, injūrïòus, 31293, 0.00091
 vulgarity, vulgãritý, 31294, 0.00091
 locomotion, lôcómôţìòn, 31295, 0.00091
 gregg, gregg0, 31296, 0.00091
@@ -27331,7 +27331,7 @@ rut, rut, 31407, 0.00091
 tubby, tubb0ý, 31408, 0.00091
 ossetia, oss0eţĩá, 31409, 0.00091
 unitarian, ûnítãrïán, 31410, 0.00091
-urethra, u/{r0êπħrá, 31411, 0.00091
+urethra, ûrêπħrá, 31411, 0.00091
 tilly, till0ý, 31412, 0.00091
 chucking, ĉħuckiñg0, 31413, 0.00091
 perishable, periŝħáblè, 31415, 0.00091
@@ -27518,7 +27518,7 @@ modems, môdémś, 31695, 0.00089
 misappropriation, misápp0rôprïâţìòn, 31696, 0.00089
 fireball, fîrèbåll0, 31697, 0.00089
 proportionally, própør#ţìònáll0ý, 31698, 0.00089
-odious, ôdïous, 31700, 0.00089
+odious, ôdïòus, 31700, 0.00089
 snags, snagś, 31701, 0.00089
 emery, emérý, 31702, 0.00089
 enriching, enriĉħiñg0, 31704, 0.00089
@@ -27638,7 +27638,7 @@ lander, landèŕ, 31884, 0.00088
 finery, fînérý, 31886, 0.00088
 piglets, piglėts, 31888, 0.00088
 storyline, stør#ýlînè, 31891, 0.00088
-unceremoniously, unçerémônïouslý, 31892, 0.00088
+unceremoniously, unçerémônïòuslý, 31892, 0.00088
 bulwark, būlwàŕk, 31894, 0.00088
 whiter, wħîtèŕ, 31898, 0.00088
 vertigo, vèŕtigô, 31899, 0.00088
@@ -27876,7 +27876,7 @@ agonies, agónïèś, 32271, 0.00086
 calmness, cāl0mnéss0, 32272, 0.00086
 whimsical, wħimśicál, 32273, 0.00086
 forgetful, før#getful, 32274, 0.00086
-studiously, stüdïouslý, 32275, 0.00086
+studiously, stüdïòuslý, 32275, 0.00086
 dormitories, dør#mítør#ïèś, 32276, 0.00086
 dinar, dinār, 32277, 0.00086
 bores, bør#èś, 32278, 0.00086
@@ -28353,7 +28353,7 @@ lubricant, lübrícánt, 33035, 0.00082
 incisor, inçîśòŕ, 33036, 0.00082
 gazes, gâzėś, 33037, 0.00082
 dreadnought, dreàdnøùg0ħt, 33039, 0.00082
-manicured, manicu/{r0èd, 33041, 0.00082
+manicured, manicûrèd, 33041, 0.00082
 commuted, cómm0ûtėd, 33042, 0.00082
 ferociously, fèŕôćiòùslý, 33044, 0.00082
 polaroid, pôlàŕσìd, 33045, 0.00082
@@ -28686,7 +28686,7 @@ lido, lïdô, 33567, 0.0008
 prunella, prünell0á, 33571, 0.0008
 aplomb, áplomb0, 33577, 0.0008
 clawing, clåw0iñg0, 33578, 0.0008
-figurehead, figu/{r0èheàd, 33580, 0.0008
+figurehead, figùŕèheàd, 33580, 0.0008
 champs, ĉħamps, 33581, 0.0008
 punctuality, puñcťüalitý, 33583, 0.0008
 jellies, jell0ïèś, 33584, 0.0008
@@ -28710,7 +28710,7 @@ walkways, wål0kwây0ś, 33611, 0.0008
 sacco, sacc0ô, 33612, 0.0008
 untested, untestėd, 33614, 0.0008
 bantam, bantám, 33617, 0.0008
-amphibious, amþħibïous, 33619, 0.0008
+amphibious, amþħibïòus, 33619, 0.0008
 dismembered, dismembèŕèd, 33620, 0.0008
 roofed, röòfèð, 33621, 0.0008
 compendium, cómpendïum, 33622, 0.0008
@@ -28798,7 +28798,7 @@ repatriated, rêpâtrïâtėd, 33750, 0.00079
 contemplates, contémplâtès, 33751, 0.00079
 stubbed, stubb0èd, 33752, 0.00079
 harassing, hàŕass0iñg0, 33753, 0.00079
-figurines, figu/{r0ïnèś, 33755, 0.00079
+figurines, figùŕïnèś, 33755, 0.00079
 deceitful, déçêìtful, 33756, 0.00079
 starry, stārr0ý, 33757, 0.00079
 tidings, tîdiñg0ś, 33758, 0.00079
@@ -29172,7 +29172,7 @@ disloyalty, dislσyáltý, 34361, 0.00077
 aidan, āïdān, 34362, 0.00077
 egoism, êgôiśm, 34364, 0.00077
 excites, ėxc0îtès, 34370, 0.00076
-invidious, invidïous, 34372, 0.00076
+invidious, invidïòus, 34372, 0.00076
 hoy, hσy0, 34375, 0.00076
 churchman, ĉħùŕĉħmán, 34376, 0.00076
 bookcases, bōòkcâsėś, 34378, 0.00076
@@ -30004,7 +30004,7 @@ morass, mòŕass0, 35730, 0.00071
 andover, andôvèŕ, 35731, 0.00071
 condor, condòŕ, 35732, 0.00071
 predominates, prėdomínâtès, 35733, 0.00071
-lugubrious, lügûbrïous, 35734, 0.00071
+lugubrious, lügûbrïòus, 35734, 0.00071
 erratically, err0aticàll0ý, 35735, 0.00071
 jumpy, jumpý, 35736, 0.00071
 postnatal, pôstnâtál, 35738, 0.00071
@@ -30155,7 +30155,7 @@ encephalopathy, ençeþħáløpáπħý, 36009, 0.0007
 levying, levýiñg0, 36010, 0.0007
 shrubbery, ŝħrubb0érý, 36014, 0.0007
 discouragement, discòùŕáĝèmént, 36015, 0.0007
-tenures, tenu/{r0èś, 36017, 0.0007
+tenures, tenûrèś, 36017, 0.0007
 bronte, brontê, 36020, 0.0007
 sci, sc0ï, 36021, 0.0007
 watkin, wåtkin, 36022, 0.0007
@@ -30584,7 +30584,7 @@ zimmer, zimm0èŕ, 36734, 0.00067
 cowie, cõw0ïè, 36735, 0.00067
 swarms, swårmś, 36736, 0.00067
 treatises, trêàtíséś, 36738, 0.00067
-figuring, figu/{r0iñg0, 36740, 0.00067
+figuring, figùŕiñg0, 36740, 0.00067
 deportees, dêpør#têèś, 36741, 0.00067
 matlock, matlock, 36742, 0.00067
 swatch, swātĉħ, 36743, 0.00067
@@ -31611,7 +31611,7 @@ spliced, splîçèð, 38544, 0.00061
 mesa, mĕsá, 38545, 0.00061
 egocentric, êgôçentric, 38547, 0.00061
 completions, cómplêţìònś, 38548, 0.00061
-ignominious, ignóminïous, 38550, 0.00061
+ignominious, ignóminïòus, 38550, 0.00061
 chu, ĉħü, 38551, 0.00061
 squirm, sqυìŕm, 38552, 0.00061
 monetarism, monétáriśm, 38554, 0.00061
@@ -31891,7 +31891,7 @@ enumerated, ėnümérâtėd, 39041, 0.0006
 loggers, logg0èŕś, 39044, 0.0006
 restorations, restórâţìònś, 39045, 0.0006
 unmitigated, unmitígâtėd, 39046, 0.0006
-studious, stüdïous, 39048, 0.0006
+studious, stüdïòus, 39048, 0.0006
 rarities, rãritïèś, 39052, 0.0006
 homme, homm0è, 39053, 0.0006
 reine, reinè, 39055, 0.0006
@@ -32716,7 +32716,7 @@ delft, delft, 40521, 0.00055
 planck, plañck, 40523, 0.00055
 bazaars, bázāàŕś, 40525, 0.00055
 bern, bèŕn, 40530, 0.00055
-harmoniously, hārmônïouslý, 40531, 0.00055
+harmoniously, hārmônïòuslý, 40531, 0.00055
 kiosks, kïøsks, 40533, 0.00055
 laban, lâbán, 40534, 0.00055
 checker, ĉħeckèŕ, 40538, 0.00055
@@ -32836,7 +32836,7 @@ railed, râìlèd, 40734, 0.00055
 excommunicated, excómm0ûnícâtéd, 40736, 0.00055
 prongs, prøñg0ś, 40737, 0.00055
 vociferously, vóçiferóùslý, 40739, 0.00055
-vicariously, vîcãrïouslý, 40741, 0.00055
+vicariously, vîcãrïòuslý, 40741, 0.00055
 billionaire, bill0ĩónãìŕè, 40742, 0.00055
 casualness, caŝυálness0, 40743, 0.00055
 nifty, niftý, 40744, 0.00055
@@ -33304,7 +33304,7 @@ retriever, rêtrïèvèŕ, 41626, 0.00053
 lapointe, lápσìntè, 41629, 0.00053
 footloose, fōòtlöòsè, 41630, 0.00053
 automaton, åùtomáton, 41631, 0.00053
-configure, cónfigu/{r0è, 41634, 0.00053
+configure, cónfigùŕè, 41634, 0.00053
 lengthways, leñg0πħwây0ś, 41636, 0.00053
 reams, rêàmś, 41638, 0.00053
 coagulation, côagûlâţìòn, 41639, 0.00053
@@ -33477,7 +33477,7 @@ lifeblood, lîfèbloód, 41956, 0.00052
 hubris, hûbrís, 41958, 0.00052
 deodorant, dêôdòŕánt, 41961, 0.00052
 lolly, loll0ý, 41962, 0.00052
-supercilious, süpèŕçilïous, 41963, 0.00052
+supercilious, süpèŕçilïòus, 41963, 0.00052
 airlifted, ãìŕliftėd, 41964, 0.00052
 surinam, sūrínām, 41966, 0.00052
 guanine, gυānïnè, 41967, 0.00052
@@ -33539,7 +33539,7 @@ invulnerable, invulneráblè, 42079, 0.00052
 swum, swum, 42081, 0.00052
 amniocentesis, amnïôçentêsis, 42082, 0.00052
 hales, hâlèś, 42084, 0.00052
-punctilious, puñctilïous, 42086, 0.00052
+punctilious, puñctilïòus, 42086, 0.00052
 challis, ĉħall0is, 42087, 0.00052
 audibly, āùdíblý, 42090, 0.00052
 congratulation, cóñg0raťulâţìòn, 42091, 0.00052
@@ -33920,7 +33920,7 @@ ola, ôlá, 42805, 0.0005
 unfortunates, unfør#ťunátès, 42806, 0.0005
 earpiece, êàŕpïèçè, 42812, 0.0005
 kooning, köòniñg0, 42813, 0.0005
-sanctimonious, sañctímônïous, 42816, 0.0005
+sanctimonious, sañctímônïòus, 42816, 0.0005
 assimilating, áss0imílâtiñg0, 42817, 0.0005
 donoghue, donóg0hûè, 42818, 0.0005
 grainy, grâìný, 42819, 0.0005
@@ -34059,7 +34059,7 @@ providential, provídenťiál, 43060, 0.00049
 glorification, glør#íficâţìòn, 43062, 0.00049
 fiddles, fidd0lèś, 43063, 0.00049
 amassing, ámass0iñg0, 43064, 0.00049
-melodious, mélôdïous, 43065, 0.00049
+melodious, mélôdïòus, 43065, 0.00049
 donning, donn0iñg0, 43067, 0.00049
 housman, hõùsmán, 43069, 0.00049
 mutineers, mûtinėèrś, 43071, 0.00049
@@ -34562,7 +34562,7 @@ discotheque, discôtħeqùè, 44098, 0.00047
 lozenge, løzénĝè, 44100, 0.00047
 bulgarians, bulgãrïánś, 44102, 0.00047
 selassie, sélass0ïè, 44104, 0.00047
-enviously, envïouslý, 44105, 0.00047
+enviously, envïòuslý, 44105, 0.00047
 unappealing, unápp0êàliñg0, 44106, 0.00047
 wiener, wïènèŕ, 44107, 0.00047
 inadvisable, inádvîśáblè, 44111, 0.00047
@@ -35283,7 +35283,7 @@ opel, ôpél, 45572, 0.00044
 shearson, ŝħėàŕsón, 45573, 0.00044
 clobber, clobb0èŕ, 45574, 0.00044
 observances, óbśèŕvánçėś, 45575, 0.00044
-bilious, bilïous, 45579, 0.00044
+bilious, bilïòus, 45579, 0.00044
 eos, êos, 45587, 0.00044
 downtrodden, dõw0ntrodd0én, 45588, 0.00044
 bugle, bûglè, 45591, 0.00044
@@ -36043,7 +36043,7 @@ clubbing, clubb0iñg0, 47198, 0.00041
 defaulting, dėfåùltiñg0, 47199, 0.00041
 vipers, vîpèŕś, 47200, 0.00041
 implicate, implicâtè, 47201, 0.00041
-obsequious, óbsêqυïous, 47206, 0.00041
+obsequious, óbsêqυïòus, 47206, 0.00041
 futurist, fûtûŕist, 47207, 0.00041
 oshkosh, øŝħkøŝħ, 47209, 0.00041
 castillo, castïl0l0ô, 47211, 0.00041
@@ -36065,7 +36065,7 @@ epitope, epitôpè, 47229, 0.00041
 trackers, trackèŕś, 47232, 0.00041
 accrues, ácc0rüèś, 47236, 0.00041
 wreaked, w0rêàkèð, 47238, 0.00041
-uri, u/{r0ï, 47239, 0.00041
+uri, ûrï, 47239, 0.00041
 sonja, sônĵá, 47245, 0.00041
 heroically, hėrôicàll0ý, 47246, 0.00041
 amateurism, amáťe{μr0ìśm, 47247, 0.00041
@@ -36491,7 +36491,7 @@ liss, liss0, 48168, 0.00039
 tatham, taπħám, 48169, 0.00039
 kennett, kenn0étt0, 48170, 0.00039
 lazar, lâzàŕ, 48172, 0.00039
-figurine, figu/{r0ïnè, 48177, 0.00039
+figurine, figùŕïnè, 48177, 0.00039
 emplacement, ėmplâçèmént, 48180, 0.00039
 whatnot, wħátnot, 48181, 0.00039
 moonies, möònïèś, 48184, 0.00039
@@ -36717,7 +36717,7 @@ cunnane, cunn0ánè, 48664, 0.00038
 wanless, wānléss0, 48665, 0.00038
 pocketing, pockétiñg0, 48666, 0.00038
 oiling, σìliñg0, 48667, 0.00038
-meritorious, merítør#ïous, 48670, 0.00038
+meritorious, merítør#ïòus, 48670, 0.00038
 underpass, undèŕpass0, 48671, 0.00038
 unemployable, unėmplσyáblè, 48673, 0.00038
 miscalculated, miscalcûlâtėd, 48677, 0.00038
@@ -36729,7 +36729,7 @@ niggers, nigg0èŕś, 48684, 0.00038
 cogency, côĝénçý, 48689, 0.00038
 mongols, moñgólś, 48690, 0.00038
 kingfishers, kiñg0fiŝħèŕś, 48691, 0.00038
-lascivious, lásc0ivïous, 48694, 0.00038
+lascivious, lásc0ivïòus, 48694, 0.00038
 corrupts, còŕrupts, 48704, 0.00038
 hain, hâìn, 48707, 0.00038
 taki, takï, 48709, 0.00038
@@ -37100,7 +37100,7 @@ cliffe, cliff0è, 49512, 0.00037
 sashes, saŝħėś, 49513, 0.00037
 superlatives, sūpèŕlátivèś, 49515, 0.00037
 nothings, nóπħiñg0ś, 49521, 0.00037
-nefarious, néfãrïous, 49523, 0.00037
+nefarious, néfãrïòus, 49523, 0.00037
 chantilly, ćħantill0ý, 49524, 0.00037
 chessboard, ĉħess0bøàŕd, 49525, 0.00037
 projectile, prójectîlè, 49527, 0.00037
@@ -37454,7 +37454,7 @@ inattention, inátt0enťión, 50299, 0.00036
 algerians, alĝêrïánś, 50300, 0.00036
 jailer, jâìlèŕ, 50302, 0.00036
 exclaims, ėxclâìmś, 50303, 0.00036
-manicure, manicu/{r0è, 50306, 0.00036
+manicure, manicûrè, 50306, 0.00036
 retrain, rêtrâìn, 50309, 0.00036
 foreseeing, før#èsêeiñg0, 50311, 0.00036
 meaner, mêànèŕ, 50312, 0.00036
@@ -37994,7 +37994,7 @@ hartman, hārtmán, 51566, 0.00034
 timms, timm0ś, 51567, 0.00034
 ruslan, ruslán, 51568, 0.00034
 harkin, hārkin, 51575, 0.00034
-figuration, figu/{r0âţìòn, 51576, 0.00034
+figuration, figùŕâţìòn, 51576, 0.00034
 invades, invâdèś, 51578, 0.00034
 belligerents, béll0iĝerénts, 51581, 0.00034
 howler, hõw0lèŕ, 51582, 0.00034
@@ -38357,7 +38357,7 @@ resettle, rêsett0lè, 52500, 0.00033
 northfield, nør#πħfïèld, 52502, 0.00033
 letty, lett0ý, 52506, 0.00033
 zionists, zîónists, 52508, 0.00033
-commodious, cómm0ôdïous, 52509, 0.00033
+commodious, cómm0ôdïòus, 52509, 0.00033
 remy, remý, 52510, 0.00033
 hippos, hipp0ôś, 52513, 0.00033
 elevates, elévâtès, 52514, 0.00033
@@ -38420,7 +38420,7 @@ bumbling, bumbliñg0, 52656, 0.00033
 hansom, hansőm, 52658, 0.00033
 reappointment, rêápp0σìntmént, 52663, 0.00033
 malarial, málãrïál, 52664, 0.00033
-disfiguring, disfigu/{r0iñg0, 52667, 0.00033
+disfiguring, disfigùŕiñg0, 52667, 0.00033
 standpoints, standpσìnts, 52671, 0.00033
 mesmerized, meśmérîzèd, 52672, 0.00033
 buccaneers, bucc0ánêèrś, 52673, 0.00033
@@ -38458,7 +38458,7 @@ badness, badnéss0, 52741, 0.00032
 intangibles, intanĝíblèś, 52742, 0.00032
 adley, adlêy0, 52743, 0.00032
 forger, før#ĝèŕ, 52744, 0.00032
-inglorious, iñg0lør#ïous, 52745, 0.00032
+inglorious, iñg0lør#ïòus, 52745, 0.00032
 mehdi, meħdï, 52746, 0.00032
 gautier, gáυtïèŕ, 52748, 0.00032
 unsaleable, unsâleáblè, 52749, 0.00032
@@ -38633,7 +38633,7 @@ shand, ŝħand, 53171, 0.00032
 microscopically, mîcróscopicàll0ý, 53174, 0.00032
 unconcern, uncónçèŕn, 53177, 0.00032
 creoles, crêôlèś, 53185, 0.00032
-disfigurement, disfigu/{r0èment, 53187, 0.00032
+disfigurement, disfigùŕèment, 53187, 0.00032
 fallacies, fall0áçïèś, 53189, 0.00032
 noncommittal, noncómm0itt0ál, 53190, 0.00032
 vertebra, vèŕtébrá, 53195, 0.00032
@@ -40641,7 +40641,7 @@ dovetail, dóvètâìl, 58336, 0.00026
 ophthalmology, opħπħál0molóĝý, 58341, 0.00026
 matchmaker, matĉħmâkèŕ, 58343, 0.00026
 childhoods, ĉħîldhōòdś, 58345, 0.00026
-hilariously, hilãrïouslý, 58346, 0.00026
+hilariously, hilãrïòuslý, 58346, 0.00026
 skiff, skiff0, 58348, 0.00026
 pistachio, pístaćħïô, 58349, 0.00026
 lucier, lüçïèŕ, 58350, 0.00026
@@ -43030,7 +43030,7 @@ undergarments, undèŕgārménts, 65725, 0.0002
 endo, endô, 65730, 0.0002
 rufford, ruff0òŕd, 65732, 0.0002
 blount, blõùnt, 65735, 0.0002
-curiouser, cûrïousèŕ, 65736, 0.0002
+curiouser, cûrïòusèŕ, 65736, 0.0002
 mobster, mobstèŕ, 65738, 0.0002
 nagoya, nágσyá, 65740, 0.0002
 rebuking, rêbûkiñg0, 65742, 0.0002
@@ -43296,7 +43296,7 @@ marksmanship, mārksmánŝħip, 66598, 0.0002
 rehearing, rêhėáriñg0, 66599, 0.0002
 brownstone, brõw0nstônè, 66603, 0.0002
 redirecting, rêdìŕectiñg0, 66607, 0.0002
-disfigure, disfigu/{r0è, 66608, 0.0002
+disfigure, disfigùŕè, 66608, 0.0002
 alienates, âlïénâtès, 66609, 0.0002
 yun, yun, 66610, 0.0002
 pizazz, pizazz0, 66613, 0.0002
@@ -43638,7 +43638,7 @@ mammoths, mamm0óπħs, 67699, 0.00019
 retrievers, rêtrïèvèŕś, 67701, 0.00019
 patriarchs, pâtrïārcħs, 67705, 0.00019
 warminster, wårminstèŕ, 67710, 0.00019
-tediously, têdïouslý, 67714, 0.00019
+tediously, têdïòuslý, 67714, 0.00019
 estrada, estrādá, 67717, 0.00019
 shoplifter, ŝħopliftèŕ, 67719, 0.00019
 trundle, trundlè, 67725, 0.00019
@@ -43866,7 +43866,7 @@ lipski, lipskï, 68433, 0.00018
 strontium, strontïum, 68434, 0.00018
 cather, caτħèŕ, 68437, 0.00018
 presages, presáĝėś, 68440, 0.00018
-inaugurating, inåùgu/{r0âtiñg0, 68443, 0.00018
+inaugurating, inåùgùŕâtiñg0, 68443, 0.00018
 hustlers, hust0lèŕś, 68444, 0.00018
 manga, mañgá, 68445, 0.00018
 uwe, ûw0è, 68449, 0.00018
@@ -44357,7 +44357,7 @@ millennial, mill0enn0ïál, 70026, 0.00017
 uncensored, unçensòŕèd, 70027, 0.00017
 kun, kun, 70030, 0.00017
 fibreboard, fîbrèbøàŕd, 70034, 0.00017
-uric, u/{r0ic, 70035, 0.00017
+uric, ûric, 70035, 0.00017
 waal, wāàl, 70040, 0.00017
 knowledgeware, k0now0lėdĝèwãrè, 70046, 0.00017
 sponged, spónĝèd, 70051, 0.00017
@@ -44537,7 +44537,7 @@ adulterers, ádulterèr0ś, 70654, 0.00017
 gutting, gutt0iñg0, 70665, 0.00017
 harney, hārnêy0, 70667, 0.00017
 keppel, kepp0él, 70673, 0.00017
-rebelliousness, rébell0ïousnéss0, 70674, 0.00017
+rebelliousness, rébell0ïòusnéss0, 70674, 0.00017
 microprose, mîcrôprôśè, 70677, 0.00017
 travnik, travnik, 70678, 0.00017
 snubbing, snubb0iñg0, 70679, 0.00017
@@ -44885,7 +44885,7 @@ disburse, disbùŕsè, 71883, 0.00016
 fugues, fûgùèś, 71885, 0.00016
 lugs, lugś, 71890, 0.00016
 bullitt, büll0itt0, 71909, 0.00016
-urology, u/{r0olóĝý, 71910, 0.00016
+urology, ûrolóĝý, 71910, 0.00016
 polyglot, polýglot, 71912, 0.00016
 montag, móntag, 71914, 0.00016
 reconstituting, rêconstitütiñg0, 71915, 0.00016
@@ -46131,7 +46131,7 @@ wendt, wend0t0, 76523, 0.00014
 pagination, paĝínâţìòn, 76531, 0.00014
 squeegee, sqυêèĝêè, 76534, 0.00014
 frictionless, fricţìònléss0, 76537, 0.00014
-urologist, u/{r0olóĝíst, 76539, 0.00014
+urologist, ûrolóĝíst, 76539, 0.00014
 americanism, ámericániśm, 76552, 0.00014
 fusillade, fûsill0âdè, 76555, 0.00014
 lamplighter, lamplîg0ħtèŕ, 76557, 0.00014
@@ -46713,12 +46713,12 @@ filibuster, filíbustèŕ, 78938, 0.00013
 remaking, rêmâkiñg0, 78942, 0.00013
 retroactively, retrôactivèlý, 78946, 0.00013
 centaurs, çentåùŕś, 78952, 0.00013
-configuring, cónfigu/{r0iñg0, 78957, 0.00013
+configuring, cónfigùŕiñg0, 78957, 0.00013
 deanna, dêann0á, 78961, 0.00013
 waives, wâìvèś, 78974, 0.00013
 newland, nëw0lánd, 78985, 0.00013
 millington, mill0iñg0tón, 78987, 0.00013
-unceremonious, unçerémônïous, 78989, 0.00013
+unceremonious, unçerémônïòus, 78989, 0.00013
 trucking, truckiñg0, 78999, 0.00013
 whitest, wħîtėst, 79002, 0.00013
 buzzell, buzz0ell0, 79008, 0.00013
@@ -48103,7 +48103,7 @@ rescinding, rėsc0indiñg0, 85064, 0.00011
 laure, låùŕè, 85073, 0.00011
 redondo, rėdondô, 85077, 0.00011
 mismatched, mismatĉħèð, 85078, 0.00011
-inaugurates, inåùgu/{r0átès, 85082, 0.00011
+inaugurates, inåùgûrátès, 85082, 0.00011
 thruster, πħrustèŕ, 85089, 0.00011
 javan, jávān, 85097, 0.00011
 philipp, þħilipp0, 85101, 0.00011
@@ -48210,7 +48210,7 @@ blas, blās, 85517, 0.00011
 weevil, wêèvíl, 85523, 0.00011
 brier, brîèŕ, 85524, 0.00011
 searles, sèàŕl0ès0, 85526, 0.00011
-tenured, tenu/{r0èd, 85527, 0.00011
+tenured, tenûrèd, 85527, 0.00011
 renaud, rėnàu=d0, 85536, 0.00011
 reorder, rêør#dèŕ, 85539, 0.00011
 taranto, tàŕantô, 85541, 0.00011
@@ -48442,7 +48442,7 @@ excludable, ėxclüdáblè, 86546, 0.00011
 broiler, brσìlèŕ, 86550, 0.00011
 featherbed, feàτħèŕbed, 86551, 0.00011
 porras, pør#r0āś, 86557, 0.00011
-reconfiguration, rêcónfigu/{r0âţìòn, 86561, 0.00011
+reconfiguration, rêcónfigùŕâţìòn, 86561, 0.00011
 mathey, maτħêy0, 86568, 0.00011
 reawaken, rêáwâkén, 86574, 0.00011
 fitzgibbon, fitzŝĝibb0ón, 86575, 0.00011
@@ -48862,7 +48862,7 @@ coddle, codd0lè, 88578, 0.0001
 atco, atcô, 88583, 0.0001
 fossiliferous, foss0íliferóùs, 88586, 0.0001
 aardvark, āàŕdvārk, 88609, 0.0001
-urologists, u/{r0olóĝísts, 88616, 0.0001
+urologists, ûrolóĝísts, 88616, 0.0001
 forewoman, før#èwömán, 88627, 0.0001
 publically, publicàll0ý, 88628, 0.0001
 handclasp, handclasp, 88637, 0.0001
@@ -49490,7 +49490,7 @@ ambles, amblèś, 91759, 0.0001
 litigate, litigâtè, 91760, 0.0001
 bullfight, būll0fîg0ħt, 91761, 0.0001
 hornbill, hør#nbill0, 91771, 0.0001
-manicurist, manicu/{r0ist, 91772, 0.0001
+manicurist, manicûrist, 91772, 0.0001
 moroni, mòŕônï, 91774, 0.0001
 slosh, sloŝħ, 91780, 0.0001
 negativism, negátiviśm, 91783, 0.0001
@@ -49975,7 +49975,7 @@ fetishist, fetiŝħist, 94175, 0.0001
 farwell, fārwell0, 94183, 0.0001
 contradictorily, contrádictòŕílý, 94185, 0.0001
 turley, tùŕlêy0, 94190, 0.0001
-urie, u/{r0ïè, 94195, 0.0001
+urie, ûrïè, 94195, 0.0001
 versa, vèŕsá, 94202, 0.0001
 gronberg, gronbèŕg, 94209, 0.0001
 montebello, montėbell0ô, 94213, 0.0001
@@ -50364,7 +50364,7 @@ paleozoic, pâlêózôic, 96159, 0.0001
 chiles, ĉħilêś, 96165, 0.0001
 reinvigorated, rêinvigórâtėd, 96167, 0.0001
 owada, ôw0ādá, 96168, 0.0001
-felonious, felônïous, 96172, 0.0001
+felonious, felônïòus, 96172, 0.0001
 feinberg, fèînbèŕg, 96173, 0.0001
 abernathy, abèŕnaπħý, 96181, 0.0001
 merida, mèŕïdá, 96183, 0.0001
@@ -50423,7 +50423,7 @@ gurion, gûrïón, 96401, 0.0001
 geisler, gèîslèŕ, 96402, 0.0001
 steichen, stèîcħén, 96404, 0.0001
 bazookas, bázöòkáś, 96406, 0.0001
-penurious, penûrïous, 96422, 0.0001
+penurious, penûrïòus, 96422, 0.0001
 sondra, sondrá, 96424, 0.0001
 febres, febrés, 96442, 0.0001
 intermodal, intèŕmôdál, 96457, 0.0001
@@ -52481,7 +52481,7 @@ sharpshooters, ŝħārpŝħöòtèŕś, 108527, 0.0001
 hemphill, hemphill0, 108537, 0.0001
 cardin, cārdin, 108538, 0.0001
 fides, fîdèś, 108539, 0.0001
-uribe, u/{r0ïbê, 108548, 0.0001
+uribe, ûrïbê, 108548, 0.0001
 middlebrook, midd0lèbrōòk, 108550, 0.0001
 denarii, dėnarïì, 108568, 0.0001
 appendectomy, app0ėndectómý, 108579, 0.0001
@@ -55380,7 +55380,7 @@ sapp, sapp0, 119310, 0
 bronfman, bronfmán, 119311, 0
 overprice, ôvèŕprîçè, 119313, 0
 radha, rād'ħà, 119314, 0
-furash, fu/{r0aŝħ, 119315, 0
+furash, fûraŝħ, 119315, 0
 biagi, bïāĝï, 119316, 0
 binner, binn0èŕ, 119317, 0
 dominiak, dóminïak, 119318, 0
@@ -59531,7 +59531,7 @@ gentleladies, ĝentlĕl0àdïèś, 123797, 0
 flammia, flamm0ïá, 123798, 0
 wenig, wenig, 123799, 0
 hawken, håw0kén, 123800, 0
-tellurides, tell0u/{r0îdèś, 123801, 0
+tellurides, tell0ûrîdèś, 123801, 0
 leticia, létićiá, 123802, 0
 ress, ress0, 123803, 0
 beiersdorf, bèîèrśdør#f, 123805, 0
@@ -60400,7 +60400,7 @@ vandervort, vandèŕvør#t, 124733, 0
 dorow, dør#ôw0, 124734, 0
 rappold, rapp0ôld, 124735, 0
 pettway, pett0wây0, 124737, 0
-urich, u/{r0icħ, 124738, 0
+urich, ûricħ, 124738, 0
 marketamerica, mārkétámericá, 124739, 0
 haury, håùŕý, 124740, 0
 aloha, álôhā, 124741, 0
@@ -62645,7 +62645,7 @@ singe, sinĝè, 127180, 0
 tidmore, tidmør#è, 127181, 0
 diederich, dïèdéricħ, 127182, 0
 breadbasket, breàdbaskét, 127183, 0
-kurinsky, ku/{r0inský, 127184, 0
+kurinsky, kûrinský, 127184, 0
 converses, convèŕséś, 127185, 0
 krenwinkle, krenwiñklè, 127186, 0
 gillogly, gill0óglý, 127187, 0
@@ -64046,7 +64046,7 @@ linthicum, linπħicum, 128692, 0
 otten, ott0én, 128693, 0
 stamm, stamm0, 128694, 0
 rodeos, rôdêôś, 128695, 0
-murai, mu/{r0a;ì, 128696, 0
+murai, mûra;ì, 128696, 0
 cassinelli, cāss0ïnell0ï, 128697, 0
 smigelski, smigelskï, 128698, 0
 taxol, taxol, 128699, 0
@@ -64072,7 +64072,7 @@ benefiel, benéfïèl, 128722, 0
 charrier, ĉħarr0ïèŕ, 128723, 0
 canedo, cānĕdô, 128724, 0
 flannagan, flann0ágán, 128725, 0
-urioste, u/{r0ïôstê, 128726, 0
+urioste, ûrïôstê, 128726, 0
 schenkel, ŝc0ħeñkél, 128727, 0
 rukavina, rukávîná, 128728, 0
 stocksdale, stocksdâlè, 128729, 0
@@ -65192,7 +65192,7 @@ oversensitivity, ôvèŕsensítivitý, 129945, 0
 smethurst, smeπħùŕst, 129946, 0
 hauch, håùĉħ, 129947, 0
 kurzawa, kūrzāwá, 129948, 0
-walkure, wål0ku/{r0è, 129949, 0
+walkure, wål0kûrè, 129949, 0
 kremers, krêmèŕś, 129950, 0
 wilkening, wilkéniñg0, 129951, 0
 buse, bûśè, 129952, 0
@@ -65757,7 +65757,7 @@ hamre, hamrè, 130560, 0
 demming, demm0iñg0, 130561, 0
 delagrange, delāgrānĝè, 130562, 0
 zuganov, zügánøv£0, 130563, 0
-accuray, acc0u/{r0ây0, 130564, 0
+accuray, acc0ûrây0, 130564, 0
 vandemark, vandémārk, 130565, 0
 gettman, gett0mán, 130566, 0
 peppi, pepp0ï, 130567, 0
@@ -67935,7 +67935,7 @@ shehorn, ŝħehòŕn, 132919, 0
 balter, båltèŕ, 132920, 0
 packett, packėtt0, 132921, 0
 guiney, gùinêy0, 132922, 0
-zagury, zagu/{r0ý, 132923, 0
+zagury, zagûrý, 132923, 0
 hedger, hedĝèŕ, 132924, 0
 niver, nîvèŕ, 132925, 0
 chock, ĉħock, 132926, 0
@@ -68629,7 +68629,7 @@ bastone, bāstônè, 133669, 0
 millimeter, mill0ímêtèŕ, 133670, 0
 ivers, îvèŕś, 133673, 0
 breiner, brèînèŕ, 133674, 0
-hovious, hôvïous, 133676, 0
+hovious, hôvïòus, 133676, 0
 travelers, travélèŕś, 133677, 0
 gustava, güstāvá, 133678, 0
 kanner, kann0èŕ, 133679, 0
@@ -73388,7 +73388,7 @@ undercapitalized, undèŕcapítálîzèd, 138830, 0
 gursky, gùŕský, 138831, 0
 hohnstein, hôħnstèîn, 138832, 0
 tensiometer, tensïomėtèŕ, 138833, 0
-urian, u/{r0ïán, 138834, 0
+urian, ûrïán, 138834, 0
 litke, litkê, 138835, 0
 debona, dėbôná, 138836, 0
 perreault, perr0èàu=l0t0, 138837, 0
@@ -79562,7 +79562,7 @@ comanches, cómanĉħêś, 145634, 0
 deregulators, dêregûlâtòŕś, 145635, 0
 holderbaum, hôldèŕbáυm, 145636, 0
 alternacare, åltèŕnácãrè, 145637, 0
-furiouser, fûrïousèŕ, 145638, 0
+furiouser, fûrïòusèŕ, 145638, 0
 happel, happ0él, 145639, 0
 yoshioka, yôŝħïôká, 145640, 0
 caracci, cārācĉ0ï, 145642, 0
@@ -80283,7 +80283,7 @@ holsclaw, hôlsclåw0, 146435, 0
 rossen, røss0én, 146436, 0
 mastin, mastin, 146437, 0
 lamberton, lambèŕtón, 146438, 0
-uriarte, u/{r0ïārtê, 146439, 0
+uriarte, ûrïārtê, 146439, 0
 glasby, glasbý, 146440, 0
 hairgrove, hàîrgróvè, 146441, 0
 bruhl, bruħl, 146443, 0
@@ -80870,7 +80870,7 @@ michalak, miĉħálak, 147082, 0
 dillion, dill0ĩón, 147083, 0
 picayune, picàýûnè, 147084, 0
 blizard, blizàŕd, 147085, 0
-reconfigured, rêcónfigu/{r0èd, 147086, 0
+reconfigured, rêcónfigùŕèd, 147086, 0
 margiotta, mārĝìôtt0á, 147087, 0
 avco, avcô, 147088, 0
 mickels, mickélś, 147089, 0
@@ -81269,7 +81269,7 @@ inglebert, iñglèbèŕt, 147535, 0
 kuchta, kuĉħtá, 147537, 0
 broadstreet, brøàdstrêèt, 147538, 0
 volentine, vôlentïnê, 147539, 0
-uriegas, u/{r0ïègáś, 147540, 0
+uriegas, ûrïègáś, 147540, 0
 behne, beħnè, 147541, 0
 trang, trañg0, 147542, 0
 feenstra, fêènstrá, 147543, 0
@@ -82966,7 +82966,7 @@ shadowland, ŝħadôw0land, 149438, 0
 hilario, hïlārïô, 149439, 0
 twohig, twôhig, 149440, 0
 passman, pass0mán, 149442, 0
-seguros, sĕgu/{r0ôś, 149443, 0
+seguros, sĕgûrôś, 149443, 0
 haman, hâmán, 149444, 0
 nealis, nêàlis, 149445, 0
 beutel, bèûtel, 149446, 0
@@ -84250,7 +84250,7 @@ massport, mass0pør#t, 150868, 0
 wujcik, wujçik, 150869, 0
 mincks, miñcks, 150870, 0
 frantom, frantóm, 150871, 0
-reconfigure, rêcónfigu/{r0è, 150872, 0
+reconfigure, rêcónfigùŕè, 150872, 0
 relf, relf, 150873, 0
 tozzi, tozz0ï, 150874, 0
 aud, åùd, 150875, 0
@@ -84644,7 +84644,7 @@ rosborough, rosbòŕôùg0ħ, 151298, 0
 aubin, åùbin, 151299, 0
 britz, britzŝ, 151300, 0
 hashem, haŝħėm, 151301, 0
-murase, mu/{r0âśè, 151302, 0
+murase, mûrâśè, 151302, 0
 niswander, niswåndèŕ, 151303, 0
 bangert, bâñgèŕt, 151304, 0
 parrilla, pārr0ill0á, 151305, 0
@@ -85992,7 +85992,7 @@ shoppe, ŝħopp0è, 152770, 0
 rumrill, rumrill0, 152771, 0
 rippey, ripp0êy0, 152772, 0
 cobert, cobèŕt, 152774, 0
-carburete, cārbu/{r0etè, 152776, 0
+carburete, cārbùŕetè, 152776, 0
 foreclosures, før#èclôŝùŕèś, 152777, 0
 clayburn, clây0bùŕn, 152778, 0
 hansman, hansmán, 152779, 0
@@ -86785,7 +86785,7 @@ imitable, imítáblè, 153642, 0
 verkuilen, vèŕkuìlén, 153643, 0
 schommer, ŝc0ħomm0èŕ, 153644, 0
 krusinski, krusinskï, 153645, 0
-carbureted, cārbu/{r0etėd, 153646, 0
+carbureted, cārbùŕetėd, 153646, 0
 welge, welĝè, 153647, 0
 cosmetology, cośmétolóĝý, 153648, 0
 earles, èàŕlèś, 153649, 0
@@ -89189,7 +89189,7 @@ longlegs, løñg0legś, 156319, 0
 fixatives, fixátivèś, 156320, 0
 schweikert, ŝc0ħwèîkèŕt, 156321, 0
 guilbeaux, gùilbèàu=x0, 156322, 0
-telluride, tell0u/{r0îdè, 156323, 0
+telluride, tell0ûrîdè, 156323, 0
 wallman, wåll0mán, 156324, 0
 roes, rôèś, 156325, 0
 lurlene, lùŕlênè, 156326, 0
@@ -90973,7 +90973,7 @@ gronski, gronskï, 158288, 0
 valiente, vālïèntê, 158289, 0
 spruiell, sprüìèll0, 158290, 0
 oxidant, oxídánt, 158291, 0
-carburetion, cārbu/{r0êţìòn, 158292, 0
+carburetion, cārbùŕêţìòn, 158292, 0
 ovshinsky, ovŝħinský, 158293, 0
 sones, sônèś, 158294, 0
 konrath, konráπħ, 158295, 0
@@ -92569,7 +92569,7 @@ zanoyan, zánσyán, 160057, 0
 enshrouded, ėnŝħrõùdéd, 160058, 0
 fractiousness, fracţióùsnéss0, 160059, 0
 intermarket, intèŕmārkėt, 160060, 0
-urias, u/{r0ïáś, 160061, 0
+urias, ûrïáś, 160061, 0
 clomipramine, clômiprámînè, 160062, 0
 pokorny, pókør#ný, 160063, 0
 paddack, padd0áck, 160064, 0
@@ -93478,7 +93478,7 @@ cheramie, ĉħerámïè, 161062, 0
 sprizzo, sprizz0ô, 161063, 0
 paap, pāàp, 161066, 0
 deleon, delêón, 161067, 0
-inaugurations, inåùgu/{r0âţìònś, 161068, 0
+inaugurations, inåùgûrâţìònś, 161068, 0
 navlab, navlab, 161069, 0
 uncapitalized, uncapitálîzèd, 161070, 0
 atilano, ātïlānô, 161071, 0
@@ -97844,7 +97844,7 @@ melder, meldèŕ, 165884, 0
 warlick, wårlick, 165885, 0
 lieske, lïèskê, 165886, 0
 transimage, tranśimáĝè, 165887, 0
-pedicure, pedicu/{r0è, 165888, 0
+pedicure, pedicûrè, 165888, 0
 wiest, wîėst, 165890, 0
 refundings, rêfundiñg0ś, 165891, 0
 homebound, hômèbõùnd, 165892, 0
@@ -98869,7 +98869,7 @@ tiemann, tïèmánn0, 167026, 0
 henthorn, henπħòŕn, 167027, 0
 partenope, pārténôpè, 167028, 0
 oralia, ør#ālïá, 167029, 0
-uremia, u/{r0êmïá, 167030, 0
+uremia, ûrêmïá, 167030, 0
 berst, bèŕst, 167031, 0
 alvares, ālvāres, 167032, 0
 latchaw, latĉħåw0, 167033, 0
@@ -99465,7 +99465,7 @@ vannelli, vānn0ell0ï, 167680, 0
 finex, finex, 167681, 0
 spratlin, spratlin, 167682, 0
 etters, ett0èŕś, 167683, 0
-brosious, brôśïous, 167684, 0
+brosious, brôśïòus, 167684, 0
 semicon, semicon, 167685, 0
 reexport, rêexpør#t, 167686, 0
 stephans, steþħánś, 167687, 0
@@ -100062,7 +100062,7 @@ gatling, gatliñg0, 168333, 0
 engelman, eñgélmán, 168334, 0
 hengel, heñgél, 168335, 0
 herbold, hèŕbôld, 168336, 0
-uncured, uncu/{r0èd, 168337, 0
+uncured, uncûrèd, 168337, 0
 aubry, åùbrý, 168338, 0
 cichy, çiĉħý, 168339, 0
 figura, fïgūrá, 168340, 0
@@ -100318,7 +100318,7 @@ sheerer, ŝħêèrèŕ, 168610, 0
 starcraft, stārcraft, 168611, 0
 matias, māţiáś, 168612, 0
 viar, vîàŕ, 168613, 0
-urey, u/{r0êy0, 168614, 0
+urey, ûrêy0, 168614, 0
 biegler, bïèglèŕ, 168615, 0
 glackin, glackin, 168616, 0
 romanello, rômānell0ô, 168617, 0
@@ -103425,7 +103425,7 @@ waldroop, wåldröòp, 172073, 0
 pickerel, pickerél, 172074, 0
 deitrick, dèîtrick, 172075, 0
 fedorchak, fedòŕcħák, 172076, 0
-accuride, acc0u/{r0îdè, 172077, 0
+accuride, acc0ûrîdè, 172077, 0
 shankman, ŝħañkmán, 172078, 0
 carretta, cārr0ett0á, 172079, 0
 rehder, reħdèŕ, 172081, 0
@@ -105042,186 +105042,236 @@ lemmie, lemm0ïè, 173868, 0
 ruley, rülêy0, 173869, 0
 sinise, sinïśè, 173870, 0
 ferrel, ferr0el, 173871, 0
-two,tw0ö,999999,0.00001
-s,s,999999,0.00001
-hundred,hundred,999999,0.00001
-during,dûriñg0,999999,0.00001
-thousand,πħõùśánd,999999,0.00001
-last,last,999999,0.00001
-five,fîvè,999999,0.00001
-close,clôśè##clôsè,999999,0.00001
-twenty,twentý,999999,0.00001
-learned,lèàŕnèd,999999,0.00001
-heart,hèārt,999999,0.00001
-fifty,fiftý,999999,0.00001
-awful,åw0ful,999999,0.00001
-guard,gùārd,999999,0.00001
-cannot,cannot,999999,0.00001
-officers,o#ff0íçèŕś,999999,0.00001
-thirty,πħìŕtý,999999,0.00001
-neither,nêìτħèŕ,999999,0.00001
-forty,før#tý,999999,0.00001
-present,preśént,999999,0.00001
-live,livè##lîvè,999999,0.00001
-guards,gùārdś,999999,0.00001
-read,rêàd##reàd,999999,0.00001
-caught,cåùg0ħt,999999,0.00001
-watch,wātĉħ,999999,0.00001
-stealthily,steàlπħilý,999999,0.00001
-dozen,dőzén,999999,0.00001
-fall,fåll0,999999,0.00001
-narrow,nãrr0ôw0,999999,0.00001
-guardsmen,gùārdśmen,999999,0.00001
-squadron,sqυadrón,999999,0.00001
-lead,lêàd##leàd,999999,0.00001
-guarded,gùārdėd,999999,0.00001
-apparently,áppãréntlý,999999,0.00001
-watched,wātĉħèd,999999,0.00001
-walk,wål0k,999999,0.00001
-million,mill0ĩón,999999,0.00001
-lives,livèś##lîvèś,999999,0.00001
-kindliness,kîndlinéss0,999999,0.00001
-beheld,beheld,999999,0.00001
-barracks,barr0ác0ks,999999,0.00001
-polish,polish##pôlish,999999,0.00001
-dismounted,dismôùntėd,999999,0.00001
-brutes,brütès,999999,0.00001
-apparent,appãrént,999999,0.00001
-wound,wõùnd##wöùnd,999999,0.00001
-squatted,sqυatt0ėd,999999,0.00001
-putting,pūtt0ing##putt0ing,999999,0.00001
-guardian,gùārdïán,999999,0.00001
-awe,åw0è,999999,0.00001
-winds,windś##wîndś,999999,0.00001
-twelve,twelvè,999999,0.00001
-topmost,topmôst,999999,0.00001
-retinues,retínüèś,999999,0.00001
-quartered,qυårtèŕèd,999999,0.00001
-quantity,qυantitý,999999,0.00001
-progress,prôgress,999999,0.00001
-minute,minútè##mînûtè,999999,0.00001
-ere,erè,999999,0.00001
-caution,cåùţìòn,999999,0.00001
-buried,burièd!berid,999999,0.00001
-womanly,wómánlý,999999,0.00001
-upturned,uptùŕnèd,999999,0.00001
-untenanted,untenántéd,999999,0.00001
-trackless,trac0kléss0,999999,0.00001
-tear,têaŕ##teàŕ,999999,0.00001
-seventy,sevéntý,999999,0.00001
-separate,sepàrátè,999999,0.00001
-perceptibly,pèŕçeptiblý,999999,0.00001
-peopled,pêòplèd,999999,0.00001
-parallel,paráll0el,999999,0.00001
-mishap,mishap,999999,0.00001
-imprecations,imprécâţìònś,999999,0.00001
-hearts,hèārts,999999,0.00001
-forebodings,før#èbôdiñg0ś,999999,0.00001
-exultation,exultâţìòn,999999,0.00001
-encircled,ençìŕclèd,999999,0.00001
-chanced,ĉħançèd,999999,0.00001
-bespoke,béspôkè,999999,0.00001
-arrows,arr0ôw0ś,999999,0.00001
-arid,arid,999999,0.00001
-antechamber,antéĉħâmbèŕ,999999,0.00001
-alighted,álîg0ħtėd,999999,0.00001
-verily,verilý,999999,0.00001
-unobserved,unóbśèŕvèd,999999,0.00001
-unlighted,unlîg0ħtėd,999999,0.00001
-unguided,ungùîdėd,999999,0.00001
-unfrequented,unfrêqυéntėd,999999,0.00001
-thrones,thrônèś,999999,0.00001
-southwesterly,sõùπħwestèŕlý,999999,0.00001
-southeasterly,sõùπħêàstèŕlý,999999,0.00001
-soldiery,sôlδìèŕlý,999999,0.00001
-softer,softèŕ,999999,0.00001
-snouts,snõùts,999999,0.00001
-singlehanded,siñglèhandėdlý,999999,0.00001
-silvered,silvèŕèd,999999,0.00001
-semi,semï,999999,0.00001
-scintillated,sc0intíll0âtéd,999999,0.00001
-salver,salvèŕ,999999,0.00001
-routing,röùtiñg0###rõùtiñg0,999999,0.00001
-route,röùte###rõùte,999999,0.00001
-roguish,rôgùish
-repulsion,repulŝìòn
-quadruple,qυadruplè##qυadrüplè
-produce,pródûçè
-pinioned,pinĩónėd
-physique,þħųśiqùè
-peals,pêàlś
-outlying,õùtlŷiñg0
-noiselessness,nσìśèléss0néss0
-noiselessly,nσìśèléss0lý
-muzzles,muzz0lèś
-mirthless,mìŕπħléss0
-mirth,mìŕπħ
-metropolises,métropólísėś
-menaced,menánçèð
-mastodons,mastodonś
-luxuriant,luxûrïánt
-limply,limplý
-laterally,latèráll0ý
-jeweled,jëw0élèd
-guardsman,gùārdśman
-gorgeously,gør#ĝeóùslý
-frothing,froπħiñg0
-forgiveness,fòŕgivènéss0
-firearms,fîrèārmś
-essayed,ess0ây0éd
-entranceway,entránçèwây0
-edifices,edifiçėś
-dismount,dismõùnt
-dimples,dimplèś
-defile,defîlè
-conformation,confòŕmâţìòn
-clasping,claspiñg0
-character,cħãráctèŕ
-celertity,çéleritý
-causes,cåùśėś
-bulks,bulks
-besiegers,besi0êgèŕś
-barbaric,bārbaric
-armlet,ārmlet
-alighting,álîg0ħtiñg0
-abuse,abûsè##abûśè
-zealously,zeàlòuslý
-wriggling,wrigg0liñg0
-wraiths,w0râìπħs
-witticism,witt0içism
-windpipe,windpîpè
-wind,wind##wînd
-whereto,wħeŕètö
-wherein,wħeŕèin
-wedging,wedĝiñg0
-wantonly,wantónlý
-wakefulness,wâkèfulnéss0
-waddled,wādd0lèd
-vouchsafed,võùĉħsâfèd
-vouchsafe,võùĉħsâfè
-vitals,vîtálś
-vitalizing,vîtálîziñg0
-vanquishing,vanqυilŝħiñg0
-upraised,uprâìśèd
-unwinking,unwinkiñg0
-unshod,unŝħod
-unreplenished,unrépleniŝħèd
-unpassed,unpass0èd
-unnoticeable,unnôtíçeáblè
-unlovely,unlővèlý
-unloosened,unlöòsénèd
-uninterrupted,unintérr0uptėd
-unguessable,ungùess0áblè
-unfoaled,unfôàlèd
-unfitted,unfitt0èd
-unfasten,unfastén
-uncooked,uncōòkèð
-
-
-
-
-
-
-
-
-
+two, tw0ö, 999999, 0.00001
+s, s, 999999, 0.00001
+hundred, hundred, 999999, 0.00001
+during, dûriñg0, 999999, 0.00001
+thousand, πħõùśánd, 999999, 0.00001
+last, last, 999999, 0.00001
+five, fîvè, 999999, 0.00001
+close, clôśè##clôsè, 999999, 0.00001
+twenty, twentý, 999999, 0.00001
+learned, lèàŕnèd, 999999, 0.00001
+heart, hèārt, 999999, 0.00001
+fifty, fiftý, 999999, 0.00001
+awful, åw0ful, 999999, 0.00001
+guard, gùārd, 999999, 0.00001
+cannot, cannot, 999999, 0.00001
+officers, o#ff0íçèŕś, 999999, 0.00001
+thirty, πħìŕtý, 999999, 0.00001
+neither, nêìτħèŕ, 999999, 0.00001
+forty, før#tý, 999999, 0.00001
+present, preśént, 999999, 0.00001
+live, livè##lîvè, 999999, 0.00001
+guards, gùārdś, 999999, 0.00001
+read, rêàd##reàd, 999999, 0.00001
+caught, cåùg0ħt, 999999, 0.00001
+watch, wātĉħ, 999999, 0.00001
+stealthily, steàlπħilý, 999999, 0.00001
+dozen, dőzén, 999999, 0.00001
+fall, fåll0, 999999, 0.00001
+narrow, nãrr0ôw0, 999999, 0.00001
+guardsmen, gùārdśmen, 999999, 0.00001
+squadron, sqυadrón, 999999, 0.00001
+lead, lêàd##leàd, 999999, 0.00001
+guarded, gùārdėd, 999999, 0.00001
+apparently, áppãréntlý, 999999, 0.00001
+watched, wātĉħèd, 999999, 0.00001
+walk, wål0k, 999999, 0.00001
+million, mill0ĩón, 999999, 0.00001
+lives, livèś##lîvèś, 999999, 0.00001
+kindliness, kîndlinéss0, 999999, 0.00001
+beheld, beheld, 999999, 0.00001
+barracks, barr0ác0ks, 999999, 0.00001
+polish, polish##pôlish, 999999, 0.00001
+dismounted, dismôùntėd, 999999, 0.00001
+brutes, brütès, 999999, 0.00001
+apparent, appãrént, 999999, 0.00001
+wound, wõùnd##wöùnd, 999999, 0.00001
+squatted, sqυatt0ėd, 999999, 0.00001
+putting, pūtt0ing##putt0ing, 999999, 0.00001
+guardian, gùārdïán, 999999, 0.00001
+awe, åw0è, 999999, 0.00001
+winds, windś##wîndś, 999999, 0.00001
+twelve, twelvè, 999999, 0.00001
+topmost, topmôst, 999999, 0.00001
+retinues, retínüèś, 999999, 0.00001
+quartered, qυårtèŕèd, 999999, 0.00001
+quantity, qυantitý, 999999, 0.00001
+progress, prôgress, 999999, 0.00001
+minute, minútè##mînûtè, 999999, 0.00001
+ere, erè, 999999, 0.00001
+caution, cåùţìòn, 999999, 0.00001
+buried, burièd!berid, 999999, 0.00001
+womanly, wómánlý, 999999, 0.00001
+upturned, uptùŕnèd, 999999, 0.00001
+untenanted, untenántéd, 999999, 0.00001
+trackless, trac0kléss0, 999999, 0.00001
+tear, têaŕ##teàŕ, 999999, 0.00001
+seventy, sevéntý, 999999, 0.00001
+separate, sepàrátè, 999999, 0.00001
+perceptibly, pèŕçeptiblý, 999999, 0.00001
+peopled, pêòplèd, 999999, 0.00001
+parallel, paráll0el, 999999, 0.00001
+mishap, mishap, 999999, 0.00001
+imprecations, imprécâţìònś, 999999, 0.00001
+hearts, hèārts, 999999, 0.00001
+forebodings, før#èbôdiñg0ś, 999999, 0.00001
+exultation, exultâţìòn, 999999, 0.00001
+encircled, ençìŕclèd, 999999, 0.00001
+chanced, ĉħançèd, 999999, 0.00001
+bespoke, béspôkè, 999999, 0.00001
+arrows, arr0ôw0ś, 999999, 0.00001
+arid, arid, 999999, 0.00001
+antechamber, antéĉħâmbèŕ, 999999, 0.00001
+alighted, álîg0ħtėd, 999999, 0.00001
+verily, verilý, 999999, 0.00001
+unobserved, unóbśèŕvèd, 999999, 0.00001
+unlighted, unlîg0ħtėd, 999999, 0.00001
+unguided, ungùîdėd, 999999, 0.00001
+unfrequented, unfrêqυéntėd, 999999, 0.00001
+thrones, thrônèś, 999999, 0.00001
+southwesterly, sõùπħwestèŕlý, 999999, 0.00001
+southeasterly, sõùπħêàstèŕlý, 999999, 0.00001
+soldiery, sôlδìèŕlý, 999999, 0.00001
+softer, softèŕ, 999999, 0.00001
+snouts, snõùts, 999999, 0.00001
+singlehanded, siñglèhandėdlý, 999999, 0.00001
+silvered, silvèŕèd, 999999, 0.00001
+semi, semï, 999999, 0.00001
+scintillated, sc0intíll0âtéd, 999999, 0.00001
+salver, salvèŕ, 999999, 0.00001
+routing, röùtiñg0###rõùtiñg0, 999999, 0.00001
+route, röùte###rõùte, 999999, 0.00001
+roguish, rôgùish, 999999, 0.00001
+repulsion, repulŝìòn, 999999, 0.00001
+quadruple, qυadruplè##qυadrüplè, 999999, 0.00001
+produce, pródûçè, 999999, 0.00001
+pinioned, pinĩónėd, 999999, 0.00001
+physique, þħųśiqùè, 999999, 0.00001
+peals, pêàlś, 999999, 0.00001
+outlying, õùtlŷiñg0, 999999, 0.00001
+noiselessness, nσìśèléss0néss0, 999999, 0.00001
+noiselessly, nσìśèléss0lý, 999999, 0.00001
+muzzles, muzz0lèś, 999999, 0.00001
+mirthless, mìŕπħléss0, 999999, 0.00001
+metropolises, métropólísėś, 999999, 0.00001
+menaced, menánçèð, 999999, 0.00001
+mastodons, mastodonś, 999999, 0.00001
+luxuriant, luxûrïánt, 999999, 0.00001
+limply, limplý, 999999, 0.00001
+laterally, latèráll0ý, 999999, 0.00001
+jeweled, jëw0élèd, 999999, 0.00001
+guardsman, gùārdśman, 999999, 0.00001
+gorgeously, gør#ĝeóùslý, 999999, 0.00001
+frothing, froπħiñg0, 999999, 0.00001
+forgiveness, fòŕgivènéss0, 999999, 0.00001
+firearms, fîrèārmś, 999999, 0.00001
+essayed, ess0ây0éd, 999999, 0.00001
+entranceway, entránçèwây0, 999999, 0.00001
+edifices, edifiçėś, 999999, 0.00001
+dismount, dismõùnt, 999999, 0.00001
+dimples, dimplèś, 999999, 0.00001
+defile, defîlè, 999999, 0.00001
+conformation, confòŕmâţìòn, 999999, 0.00001
+clasping, claspiñg0, 999999, 0.00001
+character, cħãráctèŕ, 999999, 0.00001
+celertity, çéleritý, 999999, 0.00001
+causes, cåùśėś, 999999, 0.00001
+bulks, bulks, 999999, 0.00001
+besiegers, besi0êgèŕś, 999999, 0.00001
+barbaric, bārbaric, 999999, 0.00001
+armlet, ārmlet, 999999, 0.00001
+alighting, álîg0ħtiñg0, 999999, 0.00001
+abuse, abûsè##abûśè, 999999, 0.00001
+zealously, zeàlòuslý, 999999, 0.00001
+wriggling, wrigg0liñg0, 999999, 0.00001
+wraiths, w0râìπħs, 999999, 0.00001
+witticism, witt0içism, 999999, 0.00001
+windpipe, windpîpè, 999999, 0.00001
+wind, wind##wînd, 999999, 0.00001
+whereto, wħeŕètö, 999999, 0.00001
+wherein, wħeŕèin, 999999, 0.00001
+wedging, wedĝiñg0, 999999, 0.00001
+wantonly, wantónlý, 999999, 0.00001
+wakefulness, wâkèfulnéss0, 999999, 0.00001
+waddled, wādd0lèd, 999999, 0.00001
+vouchsafed, võùĉħsâfèd, 999999, 0.00001
+vouchsafe, võùĉħsâfè, 999999, 0.00001
+vitals, vîtálś, 999999, 0.00001
+vitalizing, vîtálîziñg0, 999999, 0.00001
+vanquishing, vanqυilŝħiñg0, 999999, 0.00001
+upraised, uprâìśèd, 999999, 0.00001
+unwinking, unwinkiñg0, 999999, 0.00001
+unshod, unŝħod, 999999, 0.00001
+unreplenished, unrépleniŝħèd, 999999, 0.00001
+unpassed, unpass0èd, 999999, 0.00001
+unnoticeable, unnôtíçeáblè, 999999, 0.00001
+unlovely, unlővèlý, 999999, 0.00001
+unloosened, unlöòsénèd, 999999, 0.00001
+uninterrupted, unintérr0uptėd, 999999, 0.00001
+unguessable, ungùess0áblè, 999999, 0.00001
+unfoaled, unfôàlèd, 999999, 0.00001
+unfitted, unfitt0èd, 999999, 0.00001
+unfasten, unfastén, 999999, 0.00001
+uncooked, uncōòkèð, 999999, 0.00001
+unconquerable, uncoñqùèŕáblè, 999999, 0.00001
+unclasped, unclaspèd, 999999, 0.00001
+typifying, tųpífŷiñg0, 999999, 0.00001
+transfigured, tranśfigùŕèd, 999999, 0.00001
+townspeople, tõw0nśpêòplè, 999999, 0.00001
+tigress, tîgress0, 999999, 0.00001
+throngiñg0, throngiñg0, 999999, 0.00001
+thongs, thoñg0ś, 999999, 0.00001
+thither, πħiτħèŕ, 999999, 0.00001
+theoretic, πħêóretic, 999999, 0.00001
+tepees, têpêès, 999999, 0.00001
+tepee, têpêè, 999999, 0.00001
+tenanted, tenántėd, 999999, 0.00001
+tediousness, têdïòusness0, 999999, 0.00001
+tailboard, tâìlbøàŕd, 999999, 0.00001
+swordsmen, sw0ør#dśmen, 999999, 0.00001
+swordsmanship, sw0ør#dśmanŝħip, 999999, 0.00001
+swordsman, sw0ør#dśman, 999999, 0.00001
+supplication, supp0lícâţìòn, 999999, 0.00001
+stoutest, stõùtest, 999999, 0.00001
+stealthy, steàlπħý, 999999, 0.00001
+squealings, sqυêàliñg0ś, 999999, 0.00001
+squadrons, sqυadrónś, 999999, 0.00001
+speckled, spec0klèd, 999999, 0.00001
+soundless, sõùndless0, 999999, 0.00001
+sorrowfully, sorr0ôwful0lý, 999999, 0.00001
+soreness, sør#eness0, 999999, 0.00001
+soliloquized, sólilóqυîzèd, 999999, 0.00001
+snuggling, snugg0liñg0, 999999, 0.00001
+snowiest, snôwïest, 999999, 0.00001
+snortings, snør#tiñg0ś, 999999, 0.00001
+slumbers, slumbèŕś, 999999, 0.00001
+sleeplessness, slêèpless0ness0, 999999, 0.00001
+slays, slây0ś, 999999, 0.00001
+signalized, signálîzèd, 999999, 0.00001
+sighters, sîg0ħtèŕś, 999999, 0.00001
+scintillations, sc0intill0âţìònś, 999999, 0.00001
+saphead, sapheàd, 999999, 0.00001
+salvers, sálvèŕś, 999999, 0.00001
+salutation, salûtâţìòn, 999999, 0.00001
+rookeries, rōòkèŕi0êś, 999999, 0.00001
+roamings, rôàmiñg0ś, 999999, 0.00001
+reviving, révîviñg0, 999999, 0.00001
+repulses, répulsės, 999999, 0.00001
+repugnance, répugnánçè, 999999, 0.00001
+reposed, répôsèd, 999999, 0.00001
+rends, rendś, 999999, 0.00001
+remounting, rêmõùntiñg0, 999999, 0.00001
+reconnoiter, reconn0ŏìtèŕ, 999999, 0.00001
+recommenced, recómm0ençèd, 999999, 0.00001
+rechart, rêĉħārt, 999999, 0.00001
+questioningly, qυesťióniñg0lý, 999999, 0.00001
+quartering, qυårtèŕiñg0, 999999, 0.00001
+quarreling, qυår0reliñg0, 999999, 0.00001
+quantities, qυantítìêś, 999999, 0.00001
+quality, qυalítý, 999999, 0.00001
+qualities, qυalítìêś, 999999, 0.00001
+pyre, pŷŕè, 999999, 0.00001
+pygmies, pųgmìêś, 999999, 0.00001
+protruded, prótrüdėd, 999999, 0.00001
